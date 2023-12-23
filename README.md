@@ -94,7 +94,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-- [ ] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- [X] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
